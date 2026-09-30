@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mystery</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
+      min-height: 100vh;
+      overflow: hidden;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100vh;
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+
+  <!
+  <img src="https://instasize.com/p/4d4ec4549f704c9dc3cd603e4622cc303254259c2f37f88b7be2824659a93ee1" alt="Pista del juego">
+
+  <script>
+    // Mensaje para la consola de DevTools (F12)
+    console.log("%c eres listo.", "color: #00ff00; font-size: 20px; font-weight: bold;");
+    console.log("asblowkfjkasspodwjfl12skib1d1s1g30np3x");
+  </script>
+</body>
+</html>
