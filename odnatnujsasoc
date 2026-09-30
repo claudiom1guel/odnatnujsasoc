@@ -28,11 +28,11 @@
 </head>
 <body>
 
-  <!
+  <!-- P -->
   <img src="https://instasize.com/p/4d4ec4549f704c9dc3cd603e4622cc303254259c2f37f88b7be2824659a93ee1" alt="Pista del juego">
 
   <script>
-    // Mensaje para la consola de DevTools (F12)
+    // M
     console.log("%c eres listo.", "color: #00ff00; font-size: 20px; font-weight: bold;");
     console.log("asblowkfjkasspodwjfl12skib1d1s1g30np3x");
   </script> 
