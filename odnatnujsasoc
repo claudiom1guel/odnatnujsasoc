@@ -35,6 +35,6 @@
     // Mensaje para la consola de DevTools (F12)
     console.log("%c eres listo.", "color: #00ff00; font-size: 20px; font-weight: bold;");
     console.log("asblowkfjkasspodwjfl12skib1d1s1g30np3x");
-  </script>
+  </script> 
 </body>
 </html>
